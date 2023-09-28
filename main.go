@@ -10,4 +10,5 @@ func Mohammad() {
 }
 func main() {
 	Dhiraj()
+	Mohammad()
 }
