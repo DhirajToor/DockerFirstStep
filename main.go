@@ -9,15 +9,15 @@ func Dhiraj() {
 func Harshpreet() {
 	log.Println("This funcion created by Harshpreet kaur")
 }
-func Abhijeet()  {
-	log.println("hello Abhijeet is owner of this code ")
+func Abhijeet() {
+	log.Println("hello Abhijeet is owner of this code ")
 }
 
 func Mohammad() {
 	log.Println("This course is Computer software and Database Development.My student Id is 500223369")
 }
 
-func Abujar(){
+func Abujar() {
 	log.Println("This function is created by Abujar Shaikh")
 }
 
