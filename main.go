@@ -18,9 +18,19 @@ func Abujar(){
 	log.Println("This function is created by Abujar Shaikh")
 }
 
+func Jasbir() {
+	log.Println("Jasbir Singh created this function and call it from main method")
+}
+
+func Randeep() {
+	log.Println("This assignment was submitted by Randeep Singh")
+}
+
 func main() {
 	Dhiraj()
 	Harshpreet()
 	Mohammad()
 	Abujar()
+	Jasbir()
+	Randeep()
 }
