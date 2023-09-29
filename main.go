@@ -3,7 +3,7 @@ package main
 import "log"
 
 func Dhiraj() {
-	log.Println("This funcion created by Dhiraj Toor")
+	log.Println("This funcion was created by Dhiraj Toor")
 }
 
 func Harshpreet() {
@@ -13,14 +13,11 @@ func Harshpreet() {
 func Mohammad() {
 	log.Println("This funcion created by Mohammad Zubiyan")
 }
-
-func Abujar(){
-	log.Println("This function is created by Abujar Shaikh")
-}
-
+func Randeep() {
+	log.Println("This assignment was submitted by Randeep Singh")
 func main() {
 	Dhiraj()
 	Harshpreet()
 	Mohammad()
-	Abujar()
+	Randeep()
 }
